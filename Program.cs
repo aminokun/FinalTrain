@@ -1,4 +1,4 @@
-﻿using Deezn;
+﻿using FinalCircusTrain;
 
 Animal Cat = new Animal("Cat", AnimalSize.Small, AnimalDiet.Carnivore);
 Animal Lion = new Animal("Lion", AnimalSize.Medium, AnimalDiet.Carnivore);
